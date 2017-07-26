@@ -5,6 +5,10 @@ Presentation built with Using Spectacle
 
 You can learn about this component from : https://github.com/FormidableLabs/spectacle/
 
+## Building Project
+-npm install
+-npm start
+
 ## Available Scripts
 
 In the project directory, you can run:
