@@ -7,6 +7,7 @@ You can learn about this component from : https://github.com/FormidableLabs/spec
 
 ## Building Project
 -npm install
+
 -npm start
 
 ## Available Scripts
